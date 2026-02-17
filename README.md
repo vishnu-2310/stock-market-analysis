@@ -1,30 +1,14 @@
-# stock-market-analysis
-# Stock Market Analysis using Python
+# 📈 Stock Market Data Pipeline
 
-## Project Overview
-This project analyzes historical stock market data using Python.
-It calculates basic statistics and explores price trends.
+## 🎯 Project Goal
+As part of my Data Analytics journey, I built this Python tool to automate the processing of historical stock data. It focuses on extracting key metrics from raw CSV files to provide actionable insights.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
+## 🛠️ Skills & Tools
+* **Python:** Data processing and logic.
+* **Git/GitHub:** Version control and repository management.
+* **Data Handling:** CSV parsing and metric calculation.
 
-## Dataset
-The dataset includes:
-- Date
-- Open price
-- High price
-- Low price
-- Close price
-- Volume
-
-## Key Output
-- Summary statistics
-- Average closing price
-
-## Skills Demonstrated
-- Data loading and cleaning
-- Basic statistical analysis
-- Python for data analysis
-
+## 🚀 Features
+* Automated calculation of daily price fluctuations.
+* Data integrity checks for trading volumes.
+* (In Progress) Data visualization using Matplotlib.
